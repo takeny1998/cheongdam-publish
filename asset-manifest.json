@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cheongdam-publish/static/css/main.d52d0cda.css",
-    "main.js": "/cheongdam-publish/static/js/main.dee2e98f.js",
-    "static/media/slick.svg": "/cheongdam-publish/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/cheongdam-publish/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/cheongdam-publish/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/cheongdam-publish/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/cheongdam-publish/index.html",
-    "main.d52d0cda.css.map": "/cheongdam-publish/static/css/main.d52d0cda.css.map",
-    "main.dee2e98f.js.map": "/cheongdam-publish/static/js/main.dee2e98f.js.map"
+    "main.css": "./static/css/main.8e21c76c.css",
+    "main.js": "./static/js/main.f85b07aa.js",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.8e21c76c.css.map": "./static/css/main.8e21c76c.css.map",
+    "main.f85b07aa.js.map": "./static/js/main.f85b07aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.d52d0cda.css",
-    "static/js/main.dee2e98f.js"
+    "static/css/main.8e21c76c.css",
+    "static/js/main.f85b07aa.js"
   ]
 }
