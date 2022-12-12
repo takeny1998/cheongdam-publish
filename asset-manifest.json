@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cheongdam-publish/static/css/main.eedc4dda.css",
-    "main.js": "/cheongdam-publish/static/js/main.a2be4548.js",
+    "main.js": "/cheongdam-publish/static/js/main.f2c6faed.js",
     "static/media/slick.svg": "/cheongdam-publish/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/cheongdam-publish/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/cheongdam-publish/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/cheongdam-publish/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cheongdam-publish/index.html",
     "main.eedc4dda.css.map": "/cheongdam-publish/static/css/main.eedc4dda.css.map",
-    "main.a2be4548.js.map": "/cheongdam-publish/static/js/main.a2be4548.js.map"
+    "main.f2c6faed.js.map": "/cheongdam-publish/static/js/main.f2c6faed.js.map"
   },
   "entrypoints": [
     "static/css/main.eedc4dda.css",
-    "static/js/main.a2be4548.js"
+    "static/js/main.f2c6faed.js"
   ]
 }
